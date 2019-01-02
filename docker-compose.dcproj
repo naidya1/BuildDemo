@@ -8,7 +8,7 @@
     <DockerTargetOS>Windows</DockerTargetOS>
     <ProjectVersion>2.0</ProjectVersion>
   </PropertyGroup>
-  /*test1*/
+  /*test2*/
   <ItemGroup>
     <None Include="docker-compose.ci.build.yml" />
     <None Include="docker-compose.override.yml">
